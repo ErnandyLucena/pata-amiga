@@ -17,7 +17,7 @@ const Navbar = () => {
         </a>
 
         <div className="flex items-center md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
-          {/* Botão para abrir menu do usuário */}
+        
           <button
             type="button"
             className="flex text-sm bg-indigo-800 rounded-full focus:ring-4 focus:ring-indigo-300 dark:focus:ring-indigo-600"

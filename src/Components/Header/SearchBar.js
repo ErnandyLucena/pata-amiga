@@ -13,8 +13,8 @@ function SearchBar() {
                 <input 
                     type="search" 
                     id="default-search" 
-                    className="block w-full p-4 ps-12 text-sm text-gray-600 border border-gray-300 rounded-3xl bg-gray-50 focus:ring-blue-500 focus:border-blue-500   dark:placeholder-gray-400 dark:focus:ring-blue-500 dark:focus:border-blue-500" 
-                    placeholder="Search Mockups, Logos..." 
+                    className="block w-full p-4 ps-12 text-sm text-gray-500 border border-gray-300 rounded-3xl bg-gray-50 focus:ring-blue-500 focus:border-blue-500   dark:placeholder-gray-400 dark:focus:ring-blue-500 dark:focus:border-blue-500" 
+                    placeholder="Buscar Serviços..." 
                     required 
                 />
                 <button 
